@@ -29,6 +29,7 @@ Built using real-world quant development workflows and clean modular Python arch
 - Visualize stock trends
 - Generate professional charts
 - Modular quant workflow
+- ## Example Output for AAPL Stock Analyis
 <img width="1046" height="524" alt="image" src="https://github.com/user-attachments/assets/c91dd69c-00d5-4e61-971d-b76f3473b007" />
 
 
